@@ -1,3 +1,5 @@
+> Windows installer fix 0.1.1: PowerShell scripts include an explicit UTF-8 BOM for Windows PowerShell 5.1 and PowerShell 7. Plugin runtime behavior is unchanged.
+
 # dsh-photo-tools
 
 独立的 photo_catalog：完整枚举、日期窗口、分页缩略图、较大预览、主观评分和覆盖报告。CPU/Pillow 处理图片，无 ASR、课堂任务、FFmpeg、Ollama 调用或 GPU 队列。工具交付画面后由当前多模态模型判断，评分不保证客观一致。
