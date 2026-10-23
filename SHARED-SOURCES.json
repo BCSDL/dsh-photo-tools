@@ -1,0 +1,10 @@
+{
+  "lib/shared/clock.js": {
+    "source": "shared/clock.js",
+    "sha256": "5e12adbfc410948e70ffae1185bfb1d91f82c6e724429374df688d9c81bc587d"
+  },
+  "lib/shared/python-worker.js": {
+    "source": "shared/python-worker.js",
+    "sha256": "80a8ee7cf54f39ab093827d6469d57fbeaa8db2949189de105fd07972248d366"
+  }
+}
